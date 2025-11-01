@@ -1,0 +1,11 @@
+ID,FirstName,LastName,Age,Type,BaseFee,PerformanceRating,TrainerFlag
+M001,Abishek,Shah,24,Regular,50,85,
+M002,Saroj,Gurung,25,Regular,45,70,
+M003,Ram,Bhandari,23,Premium,80,92,Y
+M004,Prakash,KC,26,Regular,40,35,
+M005,Suman,Thapa,27,Premium,85,88,N
+M006,Emily,Davis,29,Regular,55,60,
+M007,Frank,Green,35,Premium,90,95,Y
+M008,Hector,King,28,Regular,48,50,
+M009,Ivy,Lopez,32,Regular,52,30,
+M010,Jack,Martin,26,Premium,75,82,N
